@@ -1,0 +1,188 @@
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/Tibia/Cliente/## Usados ##/otclientv8-master/'
+== application started at Jun 23 2020 18:13:29
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Missing file: 740/Tibia.dat
+Missing file: 740/Tibia.spr
+
+You should open data/things and create directory 740.
+In this directory (data/things/740) you should put missing
+files (Tibia.dat and Tibia.spr) from correct Tibia version.
+ERROR: Missing file: 860/Tibia.dat
+Missing file: 860/Tibia.spr
+
+You should open data/things and create directory 860.
+In this directory (data/things/860) you should put missing
+files (Tibia.dat and Tibia.spr) from correct Tibia version.
+ERROR: Missing file: 860/Tibia.dat
+Missing file: 860/Tibia.spr
+
+You should open data/things and create directory 860.
+In this directory (data/things/860) you should put missing
+files (Tibia.dat and Tibia.spr) from correct Tibia version.
+Exiting application..
+WARNING: attempt to destroy widget 'terminalButton' two times
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/Tibia/Cliente/## Usados ##/otclientv8-master/'
+== application started at Jun 23 2020 18:14:31
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Missing file: 860/Tibia.dat
+Missing file: 860/Tibia.spr
+
+You should open data/things and create directory 860.
+In this directory (data/things/860) you should put missing
+files (Tibia.dat and Tibia.spr) from correct Tibia version.
+Exiting application..
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/Tibia/Cliente/## Usados ##/otclientv8-master/'
+== application started at Jun 23 2020 18:18:15
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Missing file: 860/Tibia.dat
+Missing file: 860/Tibia.spr
+
+You should open data/things and create directory 860.
+In this directory (data/things/860) you should put missing
+files (Tibia.dat and Tibia.spr) from correct Tibia version.
+Exiting application..
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/Tibia/Cliente/## Usados ##/otclientv8-master/'
+== application started at Jun 23 2020 18:19:34
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Missing file: 860/Tibia.dat
+Missing file: 860/Tibia.spr
+
+You should open data/things and create directory 860.
+In this directory (data/things/860) you should put missing
+files (Tibia.dat and Tibia.spr) from correct Tibia version.
+Exiting application..
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/DBO Supreme Cliente/'
+== application started at Jun 23 2020 18:22:03
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+Exiting application..
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/DBO Supreme Cliente/'
+== application started at Jun 23 2020 18:25:33
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 437, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 127.0.0.1:7171
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 437, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 127.0.0.1:7171
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 437, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 127.0.0.1:7171
+Login to 25.86.60.75:7172
+ERROR: ProtocolGame parse message exception (3905 bytes, 32 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (44 bytes, 26 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (40 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (189 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (78 bytes, 60 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (78 bytes, 60 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (17 bytes, 1 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (78 bytes, 60 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (78 bytes, 60 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (17 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (40 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (78 bytes, 60 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (17 bytes, 1 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (78 bytes, 60 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (70 bytes, 52 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (78 bytes, 60 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (16 bytes, 0 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: ProtocolGame parse message exception (78 bytes, 60 unread, last opcode is 0, prev opcode is 131): InputMessage eof reached
+ERROR: failed to save OTMM minimap: failed to create file '/minimap.otmm': not found
+ERROR: unable to open file for writing '/actionbar.otml': not found
+Exiting application..
+ERROR: unable to open file for writing '/config.otml': not found
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/DBO Supreme Cliente/'
+== application started at Jun 23 2020 18:28:22
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Layour retro doesn't exist, using default
+Exiting application..
+WARNING: attempt to destroy widget 'terminalButton' two times
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/DBO Supreme Cliente/'
+== application started at Jun 23 2020 18:29:15
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 437, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 127.0.0.1:7171
+Login to 25.86.60.75:7172
+Login to 25.86.60.75:7172
+Login to 25.86.60.75:7172
+ERROR: failed to save OTMM minimap: failed to create file '/minimap.otmm': not found
+ERROR: unable to open file for writing '/actionbar.otml': not found
+ERROR: unable to open file for writing '/bot/cavebot_1.2/storage.json': not found
+Exiting application..
+ERROR: unable to open file for writing '/config.otml': not found
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/DBO Supreme Cliente/'
+== application started at Jun 23 2020 18:33:28
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 437, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 127.0.0.1:7171
+Login to 25.86.60.75:7172
+Exiting application..
+WARNING: attempt to destroy widget 'terminalButton' two times
+GPU Intel(R) HD Graphics 620 (Intel)
+OpenGL 4.6.0 - Build 26.20.100.7262
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/thiag/Google Drive/Meu Tibia/DBO Supreme Cliente/'
+== application started at Jun 23 2020 18:35:02
+OTCv8 2.4.1 rev 0 (alpha) made by otclient.ovh built on Jun 22 2020 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 437, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 127.0.0.1:7171
+Login to 25.86.60.75:7172
+Login to 25.86.60.75:7172
+Login to 25.86.60.75:7172
+Exiting application..
